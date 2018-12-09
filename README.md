@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 9, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Richard Morrow)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This lesson uses an API, Ajax, and JSON-formatted data to build an application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://theironchef311.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to link an API to my code.)
+2. (How to pull from the API using pre-documented keywords as the id.)
+3. (How to retrieve movie info from JSON object retrieved from the TMDB Server and places the title on the HTML page based on the id.)
+4. (How to put together HTML, JavaScript, AJAX, JSON, and an API.)
+5. (How to successfully manipulate the DOM using jQuery and JSON code.)
